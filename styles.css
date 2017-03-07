@@ -1,0 +1,76 @@
+body {  
+background: url(images/backgrounds/whitediamond.png) repeat center center fixed; 
+z-index: 0 ;
+}
+article {
+	font-family: 'Cinzel', serif;
+	/*font-family: 'Josefin Sans', sans-serif;*/
+	color: white ;
+	font-size: 50px;
+}  
+.pinkbackground {
+
+
+
+
+background: #fd746c; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #fd746c , #ff9068); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #fd746c , #ff9068); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+height: 770px ;
+opacity: 0.5;
+}
+.orangebackground {
+background: #FF8008; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #FF8008 , #FFC837); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #FF8008 , #FFC837); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+height: 720px ;
+opacity: 0.2;
+margin-right: none;
+margin-bottom: 70px;
+ }
+.nav {
+	height: 40px;
+	
+	
+
+}
+ul {
+  position: fixed;
+  
+  list-style-type:none;
+  bottom: 0;
+
+
+}
+ li {
+  float: left;
+  padding-left: 10px;
+  margin-left: 10px;
+  border-left: 1px solid #fff;
+}
+.secondtowimg{
+
+}
+.greybackground {
+	float:right;
+background-color: #FF8008;
+opacity: 0.2;
+border-radius: 25px;
+width: 25px;
+ }
+ .imggal {
+  padding:75px;
+ }
+ 
+ 
+ .topnav{
+ 	position: fixed;
+    top: 0;
+    margin-top:50px;
+   
+ }
+ .minigal{
+ 	height: 1500px;
+ 	margin: 10px 10px 10px 10px ;
+ }
